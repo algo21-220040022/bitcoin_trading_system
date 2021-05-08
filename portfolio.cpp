@@ -2,9 +2,6 @@
 //  portfolio.cpp
 //  Backtest Environment
 //
-//  Created by Evan Kirkiles on 6/2/18.
-//  Copyright © 2018 Evan Kirkiles. All rights reserved.
-//
 
 #include "portfolio.hpp"
 
