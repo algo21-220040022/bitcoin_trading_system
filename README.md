@@ -47,7 +47,7 @@ In this part, we develop a event-driven frame to run the backtest and live tradi
 In this part, we divide the front page into two parts. One part is to input the backtest parameter and show the backtest results. Another is to show the live trading results.
 The result page is
 *The front page*
-![market_info](https://github.com/algo21-116010293/bitcoin_trading_system/blob/main/pictures/page.png)
+![page](https://github.com/algo21-116010293/bitcoin_trading_system/blob/main/pictures/page.png)
  
  To see the complete demo, see the .mp4 file [demo](https://github.com/algo21-116010293/bitcoin_trading_system/blob/main/demo.mp4)
  
