@@ -3,9 +3,7 @@
 //  portfolio.hpp
 //  Backtest Environment
 //
-//  Created by Evan Kirkiles on 6/2/18.
-//  Copyright © 2018 Evan Kirkiles. All rights reserved.
-//
+
 #pragma once
 #ifndef portfolio_hpp
 #define portfolio_hpp
