@@ -10,3 +10,6 @@ This bitcoin trading system includes Tencent cloud, database, backtest, live tra
 
 ## Preparation
 In order not the occupy the local memory, this project uses Linux system on a Tencent Cloud to store the data. 
+
+## System Frame
+THe database is allocated on cloud and 
