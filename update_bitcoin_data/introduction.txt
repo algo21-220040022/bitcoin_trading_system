@@ -1,0 +1,1 @@
+The codes in this file are use for updating ticker data and order book data throught python package CCXT.
