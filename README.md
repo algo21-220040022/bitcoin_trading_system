@@ -56,4 +56,4 @@ The result page is
 * **Database: change the mySQL to postgreSQL. Improve the efficiency when extracting data from backend.**  
 
 * **Paper trading. Because of time reason, we have not utilize the event-driven framework to run the paper & live trading process. We can add a monitoring exchange to monitor trading.**
-* **System Frame. We can divide the system into research part and trading part because when backtesting, the requirement of speed is not high and we can use python the achieve it and improve the efficiency of writing code. As for trading part, still use C++ since it is much faster**
+* **System Frame. We can divide the system into research part and trading part because when backtesting, the requirement of speed is not high and we can use python the achieve it and improve the efficiency of writing code. As for trading part, still use C++ since it is much faster.**
