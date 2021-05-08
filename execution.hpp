@@ -2,8 +2,6 @@
 //  execution.hpp
 //  Backtest Environment
 //
-//  Created by Evan Kirkiles on 6/8/18.
-//  Copyright © 2018 Evan Kirkiles. All rights reserved.
 //
 #pragma once
 #ifndef execution_hpp
